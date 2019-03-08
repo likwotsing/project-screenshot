@@ -1,1 +1,1 @@
-![书法台大数据可视分析平台](https://note.youdao.com/favicon.ico)
+![书法台大数据可视分析平台](https://raw.githubusercontent.com/likwotsing/project-screenshot/master/img/%E4%B9%A6%E6%B3%95%E5%8F%B0%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%88%86%E6%9E%90%E5%B9%B3%E5%8F%B0.png)
